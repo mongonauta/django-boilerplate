@@ -1,0 +1,11 @@
+Django==1.6.2
+Fabric==1.8.2
+coverage==3.7.1
+ecdsa==0.11
+mock==1.0.1
+mongoengine==0.8.0
+paramiko==1.13.0
+pycrypto==2.6.1
+pymongo==2.6.3
+selenium==2.40.0
+wsgiref==0.1.2
